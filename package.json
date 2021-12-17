@@ -1,0 +1,19 @@
+{
+  "name": "@gorrion/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier configuration used at Gorrion Software House",
+  "repository": "gorrion-io/prettier-config",
+  "keywords": [
+    "prettier",
+    "gorrion"
+  ],
+  "files": [
+    "index.json"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Gorrion Software House",
+    "url": "https://gorrion.io"
+  },
+  "main": "index.json"
+}
